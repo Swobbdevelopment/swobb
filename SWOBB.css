@@ -130,7 +130,7 @@ strong{
 }
 
 .hero-text{
-	color: black;/*#9852f9*/
+	color: var(--primary);/*#9852f9*/
 	font-weight: bold;
 }
 
